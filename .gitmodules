@@ -1,6 +1,7 @@
 [submodule "submodule1"]
 	path = submodule1
 	url = https://github.com/MLlover/submodule1.git
+	branch = main
 [submodule "nested_test/submodule2"]
 	path = nested_test/submodule2
 	url = https://github.com/MLlover/submodule2.git
