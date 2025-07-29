@@ -4,3 +4,9 @@
 [submodule "nested_test/submodule2"]
 	path = nested_test/submodule2
 	url = https://github.com/MLlover/submodule2.git
+[submodule "nested_test2"]
+	path = nested_test2
+	url = https://github.com/MLlover/submodule2.git
+[submodule "nested_test3/nested_test4"]
+	path = nested_test3/nested_test4
+	url = https://github.com/MLlover/submodule2.git
